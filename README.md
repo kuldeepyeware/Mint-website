@@ -1,6 +1,6 @@
 # Simple Minting Website using React.js, Solidity, OpenZeppelin and Chakra UI
 
-Project is deployed [Here]()
+Project is deployed [Here](https://mint-website-sepia.vercel.app/)
 
 This is a Minting website web application which is created by following Youtube Video [Tutorial](https://youtu.be/ynFNLBP2TPs) built with the following technologies:
 
